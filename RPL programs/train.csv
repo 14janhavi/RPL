@@ -1,0 +1,7 @@
+
+PassengerId	Survived	Pclass	Name	Sex	Age	SibSp	Parch	Fare
+1	1	1	John Smith	male	22	1	0	71.28
+2	0	3	Anna Brown	female	34	0	0	7.25
+3	1	1	Mary Johnson	female	26	1	1	53.10
+4	0	3	Michael Wilson	male	30	0	0	8.05
+5	1	2	James Taylor	male	28	0	0	10.50
